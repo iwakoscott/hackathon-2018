@@ -10,6 +10,7 @@ _Firstname Lastname (@discordusername)_
 
 - Scott Iwako (@iwakoscott)
 - Miguel Ruiz (@migzruiz)
+- Gerardo Fernandez (@gerardofer)
 
 ---
 
