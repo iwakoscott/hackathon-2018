@@ -20,12 +20,11 @@ _Firstname Lastname (@discordusername)_
 
 ##### Scott Iwako
 
-- I have two goals:
+I have two goals:
 
 1. I want to get experience collaborating on a project with other developers instead of building solo project.
 2. I want to learn how to use Lambda functions!
 
----
 ##### Lena Ryoo
 
 1. Learn how to use the APIs
