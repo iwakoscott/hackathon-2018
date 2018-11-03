@@ -35,3 +35,6 @@ _Firstname Lastname (@discordusername)_
 1. Enhance my skills working in a team
 2. Use some api's to build some small but attractive idea
 
+#### Miguel Ruiz
+1. Work on a team with teammates
+2. Learn some cool new api's and have fun.
