@@ -12,6 +12,7 @@ _Firstname Lastname (@discordusername)_
 - Miguel Ruiz (@migzruiz)
 - Gerardo Fernandez (@gerardofer)
 - Lena Ryoo (@lena)
+- Sarmishta Burujupalli (@Sarmishta)
 
 ---
 
