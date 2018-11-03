@@ -26,3 +26,7 @@ _Firstname Lastname (@discordusername)_
 2. I want to learn how to use Lambda functions!
 
 ---
+##### Lena Ryoo
+
+1. Learn how to use the APIs
+2. Collaborate/create with teammates!
